@@ -18,5 +18,6 @@ What I Learned:
 What I would like to work on:
 -How to use javscript to manipulate DOM. need more practice with that
 -Adding parallax thing (wasn't covered in tutorial)
+-Github (I still don't really understand it)
 -Having more pictures of myself
 -Being cooler
