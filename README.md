@@ -36,3 +36,5 @@ What I would like to work on:
 	-Having more pictures of myself
 
 	-Being cooler
+
+EDIT-1: added fortune cookie project to portfolio. first original project YAZZZZ
