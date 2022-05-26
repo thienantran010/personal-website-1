@@ -488,6 +488,16 @@ the grid to have 3 columns, but have had no luck completely fixing it. */
     margin: 1em;
 }
 
+/* My music */
+.my-music {
+    background: white;
+    color: black;
+}
+
+
+.my-music__subtitle {
+    color: black;
+}
 /* Footer */
 
 .footer {
